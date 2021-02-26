@@ -16,6 +16,12 @@ table{
   width: 60%;
 }
 
+/* .container{
+  box-shadow: 0 5px 20px slategrey;
+  width: 50%;
+  padding-left: 30%;
+} */
+
 td, th{
   border: 1px solid rgb(0, 0, 0);
   padding: 8px;
